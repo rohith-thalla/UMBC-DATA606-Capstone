@@ -39,7 +39,7 @@
 # 3. Data
 
 ## Data Sources:
-- **[Source](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)**: The dataset is sourced from the UCI Machine Learning Repository, titled **Daily and Sports Activities Dataset**.
+- **[Source](https://archive.ics.uci.edu/dataset/256/daily+and+sports+activities)**: The dataset is sourced from the UCI Machine Learning Repository, titled **Daily and Sports Activities Dataset**.
 - **Purpose**: This dataset contains sensor data collected from body-worn units (accelerometers, gyroscopes) while performing various activities.
 
 ## Data Size:
